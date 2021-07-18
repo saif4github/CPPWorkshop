@@ -1,5 +1,7 @@
-// hello.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+* Author: Shaik Saifulla
+* Description: This is my first CPP program.
+*/
 
 #include <iostream>
 
